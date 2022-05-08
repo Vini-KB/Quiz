@@ -1,0 +1,11 @@
+.login-form{
+    margin-top:8rem;
+    padding: 2rem;
+    box-shadow: 5px 10px 5px 5px #c5c2c2;
+}
+
+@media (max-width: 767.98px)  {
+    .login-form{
+        padding: 0.5rem
+    }
+}
